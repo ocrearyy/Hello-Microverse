@@ -1,0 +1,6 @@
+# ignore all md files
+test.md
+
+
+# ignore node modules
+.node_modules 
